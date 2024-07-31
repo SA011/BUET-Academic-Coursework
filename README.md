@@ -45,7 +45,7 @@ This is a collection of all cse lab course works and term projects that I have d
 
 ### Term 1 (L-4/T-1)
 
-- [CSE406 - Computer Security](https://github.com/SA011/CSE406) | Term Project : [Graylog](https://github.com/SA011/CSE406/tree/master/Graylog%20%3A%20Log%20Management)
+- [CSE406 - Computer Security](https://github.com/SA011/CSE406) | Term Project : [Graylog : Log Management Tool](https://github.com/SA011/CSE406/tree/master/Graylog%20%3A%20Log%20Management)
 - CSE408 - Software Development : [Frontend](https://github.com/SA011/Dream-Sports-League-Frontend) | [Backend](https://github.com/SA011/Dream-Sports-League-Backend)
 - [CSE410 - Computer Graphics](https://github.com/SA011/CSE410)
 
