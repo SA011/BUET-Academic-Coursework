@@ -32,24 +32,24 @@ This is a collection of all cse lab course works and term projects that I have d
 - [CSE306 - Computer Architecture](https://github.com/SA011/CSE306)
 - [CSE308 - Software Engineering](https://github.com/SA011/CSE308)
 - [CSE310 - Compiler](https://github.com/SA011/Compiler-310)
-- [CSE316 - Microprocessors, Microcontrollers and Embedded Systems](https://github.com/SA011/CSE316) | RetroSnake(Term Project) : [Video](https://www.youtube.com/watch?v=ReesaAqyTmY) - [Code](https://github.com/RedwanulKarim612/Retro-Snake)
+- [CSE316 - Microprocessors, Microcontrollers and Embedded Systems](https://github.com/SA011/CSE316) | Term Project : [RetroSnake Code](https://github.com/RedwanulKarim612/Retro-Snake) | [Youtube](https://www.youtube.com/watch?v=ReesaAqyTmY) 
 
 ### Term 2 (L-3/T-2)
 
 - [CSE314 - Operating Systems](https://github.com/SA011/CSE314)
 - [CSE318 - Artificial Intelligence](https://github.com/SA011/CSE318)
-- [CSE322 - Computer Networks](https://github.com/SA011/CSE322)
-- [CSE326 - Information System Design](https://github.com/ayeshathoi/ISD-326)
+- [CSE322 - Computer Networks](https://github.com/SA011/CSE322) | Term Project : [SHRED : An Active Queue Management](https://github.com/SA011/CSE322/tree/master/NS2%20Project%20%3A%20SHRED%20-%20An%20Active%20Queue%20Management) 
+- [CSE326 - Information System Design](https://github.com/ayeshathoi/ISD-326) | Private Repo : [Demo of one module](https://github.com/ezmata-101/ParkCar-Server) 
 
 ## Level 4
 
 ### Term 1 (L-4/T-1)
 
-- [CSE406 - Computer Security](https://github.com/SA011/CSE406)
+- [CSE406 - Computer Security](https://github.com/SA011/CSE406) | Term Project : [Graylog](https://github.com/SA011/CSE406/tree/master/Graylog%20%3A%20Log%20Management)
 - CSE408 - Software Development : [Frontend](https://github.com/SA011/Dream-Sports-League-Frontend) | [Backend](https://github.com/SA011/Dream-Sports-League-Backend)
 - [CSE410 - Computer Graphics](https://github.com/SA011/CSE410)
 
 ### Term 2 (L-4/T-2)
 
 - [CSE412 - Simulation and Modeling](https://github.com/SA011/CSE412)
-- [CSE472 - Machine Learning](https://github.com/SA011/CSE472)
+- [CSE472 - Machine Learning](https://github.com/SA011/CSE472) 
