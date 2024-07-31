@@ -1,6 +1,6 @@
 # BUET-Academics
 
-This is a collection of all cse lab course works and term projects that I have done as part of my CSE BUET undergard academic life. 
+This is a collection of all cse lab course works and term projects that I have done as part of my CSE BUET undergard academic life. Explore the given links to know details about the coursework. 
 
 ## Level 1
 
