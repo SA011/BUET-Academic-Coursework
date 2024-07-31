@@ -32,7 +32,7 @@ This is a collection of all cse lab course works and term projects that I have d
 - [CSE306 - Computer Architecture](https://github.com/SA011/CSE306)
 - [CSE308 - Software Engineering](https://github.com/SA011/CSE308)
 - [CSE310 - Compiler](https://github.com/SA011/Compiler-310)
-- [CSE316 - Microprocessors, Microcontrollers and Embedded Systems](https://github.com/SA011/CSE316) | Term Project : [RetroSnake Code](https://github.com/RedwanulKarim612/Retro-Snake) - [Youtube](https://www.youtube.com/watch?v=ReesaAqyTmY) 
+- [CSE316 - Microprocessors, Microcontrollers & Embedded Systems](https://github.com/SA011/CSE316) | Term Project : [RetroSnake Code](https://github.com/RedwanulKarim612/Retro-Snake) - [Video](https://www.youtube.com/watch?v=ReesaAqyTmY) 
 
 ### Term 2 (L-3/T-2)
 
