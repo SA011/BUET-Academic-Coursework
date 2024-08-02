@@ -5,6 +5,13 @@ This is a collection of all cse lab course works and term projects that I have d
 ### Terminology
 - Offline and Online are the terms used in BUET to refer to the Home-Assignments and Class-Test (Done in Labs) respectively.
 
+
+----
+### Academic Term 
+- Each Academic Year is divided into two terms from Level 1 to Level 4.
+
+---
+
 ## Level 1
 
 ### Term 1 (L-1/T-1)
