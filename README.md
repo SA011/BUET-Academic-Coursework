@@ -2,6 +2,8 @@
 
 This is a collection of all cse lab course works and term projects that I have done as part of my CSE BUET undergard academic life. Explore the given links to know details about the coursework. 
 
+---
+
 ### Terminology
 - Offline and Online are the terms used in BUET to refer to the Home-Assignments and Class-Test (Done in Labs) respectively.
 
@@ -9,6 +11,7 @@ This is a collection of all cse lab course works and term projects that I have d
 ----
 ### Academic Term 
 - Each Academic Year is divided into two terms from Level 1 to Level 4.
+- This repository contains the coursework in ascending order of the academic year and term.
 
 ---
 
