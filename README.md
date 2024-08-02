@@ -21,6 +21,8 @@ This is a collection of all cse lab course works and term projects that I have d
 
 - [CSE108 - Object Oriented Programming Language](https://github.com/SA011/CSE108)
 
+---
+
 ## Level 2
 
 ### Term 1 (L-2/T-1)
@@ -33,6 +35,8 @@ This is a collection of all cse lab course works and term projects that I have d
 
 - [CSE208 - Data Structures and Algorithms II](https://github.com/SA011/CSE208)
 - [CSE216 - Database](https://github.com/SA011/CSE216) | Term Project : [Make My Trip](https://github.com/RedwanulKarim612/Make-My-Trip) , [Video Demo](https://drive.google.com/file/d/1ep-J3JAkjizsPBDWWe6HmQtvDMgn5bD-/view)
+
+---
 
 ## Level 3
 
@@ -49,6 +53,8 @@ This is a collection of all cse lab course works and term projects that I have d
 - [CSE318 - Artificial Intelligence](https://github.com/SA011/CSE318)
 - [CSE322 - Computer Networks](https://github.com/SA011/CSE322) | Term Project : [SHRED : An Active Queue Management](https://github.com/SA011/CSE322/tree/master/NS2%20Project%20%3A%20SHRED%20-%20An%20Active%20Queue%20Management) 
 - [CSE326 - Information System Design](https://github.com/ayeshathoi/ISD-326) | Private Repo : [Demo of one module](https://github.com/ezmata-101/ParkCar-Server) 
+
+---
 
 ## Level 4
 
